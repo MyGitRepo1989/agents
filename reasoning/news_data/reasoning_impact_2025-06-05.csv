@@ -1,0 +1,10 @@
+Category,Impact Decision
+Finance,LowPositive
+Technology,LowPositive
+Entertainment,LowPositive
+Politics,LowNegative
+Other,LowNegative
+Health,LowNegative
+Sports,Neutral
+Regulations,LowNegative
+Crime,Neutral

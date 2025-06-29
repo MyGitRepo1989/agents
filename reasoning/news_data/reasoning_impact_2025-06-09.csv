@@ -1,0 +1,13 @@
+Category,Impact Decision
+Entertainment,LowPositive
+Technology,LowPositive
+Politics,LowNegative
+Finance,LowPositive
+Other,LowNegative
+Sports,LowPositive
+Health,LowPositive
+Crime,LowNegative
+WorldNews,LowNegative
+Regulations,LowNegative
+War,LowNegative
+Science,LowPositive
